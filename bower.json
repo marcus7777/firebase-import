@@ -1,0 +1,13 @@
+{
+  "name": "firebase-import",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "firebase-import.html",
+  "keywords": [
+    "polymer",
+    "web-components"
+  ],
+  "dependencies": {
+    "firebase":"firebase/firebase-bower"
+  }
+}
